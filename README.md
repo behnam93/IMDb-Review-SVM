@@ -6,4 +6,6 @@ this project works with a dataset of 50,000 movie reviews from the Internet Movi
 2. TfidfVectorizer
 3. NLTK
 4. Numpy
-5. ...
+5. Umap-Learn
+# Conclusion
+![image](result.png)
